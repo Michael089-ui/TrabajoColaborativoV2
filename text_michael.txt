@@ -1,1 +1,21 @@
+<<<<<<< Updated upstream
 Mi last change sdsdsdsd
+=======
+Esta es modificaci[on 
+
+   .-.
+           (   )      Aphelios, the Weapon of the Faithful
+            | |         
+         .-'   `-.
+        /       o \    
+       |    ()     |   << Silence speaks loudest >>
+        \         /
+         `-.___.-'
+
+        //\\     //\\
+       || ||     || ||
+       || ||     || ||   Twin weapons in silence...
+       \\_//     \\_//
+        ||         ||
+       /__\       /__\ 
+>>>>>>> Stashed changes
